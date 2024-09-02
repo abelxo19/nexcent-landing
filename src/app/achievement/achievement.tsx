@@ -6,12 +6,12 @@ import a_4 from '../assets/a_4.png'
 const achievement = () => {
   return (
    <section className="bg-[#F5F7FA]">
-    <div className="container flex justify-between py-11 ">
+    <div className="ml-14 flex justify-between py-11 ">
         <div>
             <h1 className="text-[25.06px] text-gray-600 font-semibold">Helping a local<span className="text-[#4caf4f] block"> business reinvent itself</span></h1>
-            <p className="tracking-tight text-[11.4px] text-[#18191F]">We reached here with our hard work and dedication</p>      
+            <p className="tracking-tight py-1 text-[11.4px] text-[#18191F]">We reached here with our hard work and dedication</p>      
         </div>
-        <div>
+        <div className="mr-52">
             <div className="grid grid-cols-4 gap-7">     
             <Image src={a_1} alt="no" className="place-self-end" />
             <p className="font-bold text-[19.5px] text-gray-600">2,245,561<span className="block tracking-tight text-gray-400 text-[11.14px]">Members</span></p>
