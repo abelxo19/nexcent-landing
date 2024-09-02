@@ -3,6 +3,7 @@ import Navbar from '@/app/navbar/navbar'
 import Hero from '@/app/hero/hero'
 import Client from '@/app/client/client'
 import Community from'@/app/community/community'
+import Achievement from'@/app/achievement/achievement'
 export default function Home() {
   return (
    <div>
@@ -10,6 +11,7 @@ export default function Home() {
     <Hero/>
     <Client/>
     <Community/>
+    <Achievement/>
    </div>
   );
 }

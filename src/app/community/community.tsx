@@ -5,7 +5,7 @@ import C3 from '../assets/c_3.png';
 
 const Community = () => {
   return (
-    <div className="container py-3">
+    <div className="container py-8">
       <div className="flex flex-col">
         <h1 className="text-center text-[20.06px] tracking-wide text-gray-600 font-semibold">
           Manage your entire community <span className="block">in a single system</span>

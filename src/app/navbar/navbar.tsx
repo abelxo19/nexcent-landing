@@ -22,7 +22,7 @@ const navbar = () => {
             <li className='text-sm'><a href='#'>Features</a></li>
             <li className='text-sm'><a href='#'>Community</a></li>
             <li className='text-sm'><a href='#'>Blog</a></li>
-            <button className='tracking-tighter text-xs px-4 py-2 bg-green-500 text-white rounded-sm'><span>Register Now</span><ArrowRight className='inline-flex h-3 w-7'/></button>
+            <button className='tracking-tighter text-xs px-4 py-2 bg-[#4caf4f] text-white rounded-sm'><span>Register Now</span><ArrowRight className='inline-flex h-3 w-7'/></button>
           </ul>
         </div>
       </div>
