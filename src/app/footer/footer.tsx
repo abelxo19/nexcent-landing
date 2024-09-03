@@ -24,7 +24,7 @@ const footer = () => {
         className='w-5 h-7 mt-1' />
         <span className='font-bold text-[24.8px] text-white tracking-wide'>Nexcent</span>
         </div>
-        <p className="pt-4 text-[9.74px] text-[#F5F7FA]">Copyright &copy; 2020 Landify UI Kit.<span className="block">All rights reserved</span></p>
+        <p className="pt-4 text-[9.74px] text-[#F5F7FA]">Copyright &copy; 2024 Landify UI Kit.<span className="block">All rights reserved</span></p>
         <div className="flex pt-5 w-[122px]">
           <Instagram className="text-white h-[12px]"/>
           <Dribbble className="text-white h-[12px]"/>
