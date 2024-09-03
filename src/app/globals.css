@@ -2,3 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components{
+    .li {
+        @apply text-[11.74px] text-[#F5F7FA]
+    }
+    .ul {
+        @apply space-y-2
+    }
+}
