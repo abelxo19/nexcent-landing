@@ -1,3 +1,4 @@
+'use client';
 import { ArrowRight, YoutubeIcon } from "lucide-react"
 import Icon from '../assets/Icon.png'
 import Image from "next/image"
@@ -6,6 +7,7 @@ import { Dribbble } from 'lucide-react';
 import { Twitter } from 'lucide-react';
 import { Youtube } from 'lucide-react';
 import Send from'../assets/send.png'
+import { motion } from "framer-motion";
 const footer = () => {
   return (
     <div className="mt-20">

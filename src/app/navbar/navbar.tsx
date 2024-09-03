@@ -4,7 +4,7 @@ import { ArrowRight } from 'lucide-react';
 import { AlignJustify } from 'lucide-react';
 const navbar = () => {
   return (
-    <header className='sticky'>
+    <header className='top-0 sticky z-20 backdrop-blur-sm'>
     <div className='container'>
      <div className='flex justify-between mt-4'>   
       <div className='flex gap-1'>
